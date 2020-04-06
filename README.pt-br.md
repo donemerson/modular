@@ -544,7 +544,7 @@ PageView(
 ),
 ```
 
-NOTA: A Navegação dentro desses módulos é feita apenas usando o Nvigator.of(context) usando os caminhos das rotas de forma literal.
+NOTA: A Navegação dentro desses módulos é feita apenas usando o Navigator.of(context) usando os caminhos das rotas de forma literal.
 
 ## Lazy Loading
 
